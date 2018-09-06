@@ -1,4 +1,4 @@
 /**
-* java doc du package
+* Java doc du package.
 */
 package com.example;
